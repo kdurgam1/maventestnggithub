@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2016-12-09T18:25:54Z" finished-at="2016-12-09T18:25:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2016-12-09T18:25:54Z" finished-at="2016-12-09T18:25:54Z">
+      <class name="com.khasim.AppTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.khasim.AppTest@234bef66]" name="loginTest" duration-ms="14" started-at="2016-12-09T23:55:54Z" finished-at="2016-12-09T23:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="logoutTests()[pri:0, instance:com.khasim.AppTest@234bef66]" name="logoutTests" duration-ms="1" started-at="2016-12-09T23:55:54Z" finished-at="2016-12-09T23:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTests -->
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:com.khasim.AppTest@234bef66]" name="registrationTest" duration-ms="1" started-at="2016-12-09T23:55:54Z" finished-at="2016-12-09T23:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- com.khasim.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
