@@ -7,7 +7,7 @@ public class AppTest {
 	@Test(priority=0)
 	public void loginTest()
 	{
-		System.out.println("login");
+		System.out.println("login done");
 	}
 	
 	@Test(priority=5)
